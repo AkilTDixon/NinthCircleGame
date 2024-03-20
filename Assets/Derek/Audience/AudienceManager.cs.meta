@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 085570ce5ccce4ab4a7bb70c527e1628
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - giftPrefab: {instanceID: 0}
+  - healthPrefab: {instanceID: 0}
+  - increaseMaxHPPrefab: {fileID: 3083623051864894234, guid: a3b4657240e084e28b8ede916fb2db69, type: 3}
+  - giftSpawnPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

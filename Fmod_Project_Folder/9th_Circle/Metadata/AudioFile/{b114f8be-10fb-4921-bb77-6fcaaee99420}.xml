@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b114f8be-10fb-4921-bb77-6fcaaee99420}">
+		<property name="assetPath">
+			<value>Enemy/Common/Hit/CommonHit1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.23956916099773243</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{507884cf-58c7-4323-ae64-8aaadbd106bd}</destination>
+		</relationship>
+	</object>
+</objects>

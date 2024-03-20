@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ce987ac6-9d4f-450a-bf36-5819d82f9f87}">
+		<property name="assetPath">
+			<value>ShopKeeper/Dialog/Shopkeeper_interaction_2.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.8024489795918368</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{507884cf-58c7-4323-ae64-8aaadbd106bd}</destination>
+		</relationship>
+	</object>
+</objects>

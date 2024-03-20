@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d3fef10f-55b3-481c-9ced-965279804ead}">
+		<property name="name">
+			<value>Favor</value>
+		</property>
+		<relationship name="folder">
+			<destination>{767e4e11-30d4-438b-96b0-e36ab5a81353}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{678ac4b0-6389-4deb-a9fd-0fe54bd9a0e9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{678ac4b0-6389-4deb-a9fd-0fe54bd9a0e9}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>sit</value>
+			<value>stand</value>
+			<value>clap</value>
+			<value>cheer</value>
+			<value>all_cheer</value>
+		</property>
+		<property name="initialValue">
+			<value>4</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d76b792add903c49a193d3075964119, type: 3}
+  m_Name: AmmoUp
+  m_EditorClassIdentifier: 
+  name: Ammo Up
+  desc: Increase Max Ammo Cap and Capacity by 10%
+  cost: 5000
+  thumbnail: {fileID: 21300000, guid: 699f363999da4bb419df3acc3b0d32c5, type: 3}
+  wepList: {fileID: 0}
+  fireRateChange: 0
+  Multishot: 0
+  ExplosiveAmmo: 0
+  ChargedShot: 0
+  PenetratingAmmo: 0
+  Knockback: 0
+  AmmoReplenish: 0
+  ammoAmtChange: 0.1

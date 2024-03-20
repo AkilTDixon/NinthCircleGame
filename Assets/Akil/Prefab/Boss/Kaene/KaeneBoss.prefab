@@ -1,0 +1,4145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4934356891467709568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341984}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709568}
+  m_LocalRotation: {x: 0.00000013315676, y: 1, z: -0.0000018642127, w: -0.00000069339967}
+  m_LocalPosition: {x: 0.0052998434, y: 0.18777025, z: -0.0000003814697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341986}
+  m_Father: {fileID: 4934356891467342202}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -3.715229, y: -179.3844, z: -10.3553705}
+--- !u!1 &4934356891467709570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341986}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709570}
+  m_LocalRotation: {x: -0.00000023843293, y: -0.0000000021089297, z: -0.005249821, w: 0.99998623}
+  m_LocalPosition: {x: -0.095042646, y: 0.0000023841858, z: -9.731593e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341988}
+  m_Father: {fileID: 4934356891467341984}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.29675, y: -1.9686418, z: -3.3250127}
+--- !u!1 &4934356891467709572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341988}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709572}
+  m_LocalRotation: {x: -8.766881e-12, y: -0.0000000011936621, z: -0.0073454864, w: 0.99997306}
+  m_LocalPosition: {x: -0.08939133, y: 0.000001373291, z: -2.9558577e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341990}
+  m_Father: {fileID: 4934356891467341986}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1397676, y: 0.67434764, z: -3.6591625}
+--- !u!1 &4934356891467709574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341990}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709574}
+  m_LocalRotation: {x: 2.3507936e-15, y: 2.0704964e-17, z: 0.008807308, w: 0.99996126}
+  m_LocalPosition: {x: -0.11202667, y: 0, z: 2.2737367e-15}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341992}
+  m_Father: {fileID: 4934356891467341988}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.3193954, y: 1.9761525, z: 1.8478115}
+--- !u!1 &4934356891467709576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341992}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709576}
+  m_LocalRotation: {x: 0, y: 0, z: 0.01037579, w: 0.9999462}
+  m_LocalPosition: {x: -0.12419883, y: 0.0000031280517, z: 3.558557e-10}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341994}
+  m_Father: {fileID: 4934356891467341990}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.4587759, y: 1.8720359, z: 6.935314}
+--- !u!1 &4934356891467709578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341994}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_FRONT_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709578}
+  m_LocalRotation: {x: -8.2809193e-20, y: -6.7686333e-18, z: -0.01223334, w: 0.9999252}
+  m_LocalPosition: {x: -0.14305359, y: 0.0000010108947, z: 8.937104e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467341992}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.6241202, y: 1.9263266, z: 11.97314}
+--- !u!1 &4934356891467709580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341996}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341996
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709580}
+  m_LocalRotation: {x: -0.31167045, y: 0.9245172, z: 0.07081143, w: 0.20764221}
+  m_LocalPosition: {x: 0.02111804, y: 0.14338094, z: 0.08744247}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341998}
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -2.6115904, y: -177.1811, z: -22.508665}
+--- !u!1 &4934356891467709582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341998}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341998
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709582}
+  m_LocalRotation: {x: 1.6179316e-10, y: -0.000000009036053, z: 0.017902425, w: 0.9998398}
+  m_LocalPosition: {x: -0.07052935, y: 0.00000008195639, z: 0.0000000014609599}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341968}
+  m_Father: {fileID: 4934356891467341996}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.303236, y: 3.3919885, z: 7.416662}
+--- !u!1 &4934356891467709584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342000}
+  m_Layer: 6
+  m_Name: WERESQUID_HEAD_nub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709584}
+  m_LocalRotation: {x: 1.7763568e-15, y: -3.7747583e-15, z: 1.2246469e-16, w: 1}
+  m_LocalPosition: {x: -0.18715835, y: 0, z: 0.0000000255969}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342158}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342002}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709586}
+  m_LocalRotation: {x: 0.1221834, y: 0.9925076, z: -0.0000015055703, w: -0.0000004536709}
+  m_LocalPosition: {x: 0.071411125, y: -0.1857277, z: 0.0000005340576}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342004}
+  m_Father: {fileID: 4934356891467342202}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0.022535294, y: 178.69006, z: 9.339518}
+--- !u!1 &4934356891467709588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342004}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342004
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709588}
+  m_LocalRotation: {x: -0.0000000011147685, y: -0.000000028334071, z: -0.039313328, w: 0.9992269}
+  m_LocalPosition: {x: -0.105979, y: -0.000000038146972, z: 0.000000015320573}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342006}
+  m_Father: {fileID: 4934356891467342002}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.027920127, y: -1.2590165, z: -9.170095}
+--- !u!1 &4934356891467709590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342006}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709590}
+  m_LocalRotation: {x: -9.368709e-20, y: -1.1171546e-17, z: -0.008385929, w: 0.99996483}
+  m_LocalPosition: {x: -0.14877777, y: 0, z: -9.094947e-15}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342008}
+  m_Father: {fileID: 4934356891467342004}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.15554899, y: -1.516071, z: 0.727927}
+--- !u!1 &4934356891467709592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342008}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342008
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709592}
+  m_LocalRotation: {x: 0, y: -0, z: -0.01734075, w: 0.9998497}
+  m_LocalPosition: {x: -0.15813217, y: 0.00000015258789, z: 0.000000012912888}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342010}
+  m_Father: {fileID: 4934356891467342006}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.13806091, y: -2.0372252, z: -0.27262807}
+--- !u!1 &4934356891467709594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342010}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709594}
+  m_LocalRotation: {x: 0, y: -0, z: -0.020737348, w: 0.99978495}
+  m_LocalPosition: {x: -0.14015053, y: 0.000000038146972, z: 0.000000011224783}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342012}
+  m_Father: {fileID: 4934356891467342008}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.14367852, y: -2.8667898, z: -0.6011476}
+--- !u!1 &4934356891467709596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342012}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709596}
+  m_LocalRotation: {x: 2.5803683e-15, y: -1.7676638e-15, z: 0.015285949, w: 0.9998832}
+  m_LocalPosition: {x: -0.14604606, y: 0, z: 0.000000011406915}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342014}
+  m_Father: {fileID: 4934356891467342010}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.19273475, y: -2.8824058, z: 3.5075445}
+--- !u!1 &4934356891467709598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342014}
+  m_Layer: 6
+  m_Name: WERESQUID_ROBE_BACK_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709598}
+  m_LocalRotation: {x: 3.302859e-16, y: -8.118144e-18, z: -0.02457172, w: 0.99969804}
+  m_LocalPosition: {x: -0.123832226, y: 0.000000038146972, z: 0.000000009854939}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342012}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0150747, y: -2.8878424, z: -1.0352333}
+--- !u!1 &4934356891467709600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342144}
+  m_Layer: 6
+  m_Name: WERESQUID_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709600}
+  m_LocalRotation: {x: 1.2497328e-14, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2463736, y: -0.000196181, z: -5.4412735e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342104}
+  - {fileID: 4934356891467342200}
+  - {fileID: 4934356891467342206}
+  m_Father: {fileID: 4934356891467342174}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.8086336, y: 1.5892272, z: -22.369614}
+--- !u!1 &4934356891467709602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342146}
+  m_Layer: 6
+  m_Name: WERESQUID_BEAK_BOTTOM
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709602}
+  m_LocalRotation: {x: 0.7882049, y: -0.6154129, z: -0.0000003998737, w: -0.0000006500893}
+  m_LocalPosition: {x: 0.015144966, y: 0.1437587, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00007539909, y: 179.99994, z: -79.97585}
+--- !u!1 &4934356891467709604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342148}
+  m_Layer: 6
+  m_Name: WERESQUID_BEAK_LEFT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709604}
+  m_LocalRotation: {x: -0.30655798, y: -0.20451039, z: -0.77333057, w: 0.51590455}
+  m_LocalPosition: {x: -0.025334964, y: 0.16864847, z: 0.052000426}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -17.665573, y: 7.612129, z: -113.76843}
+--- !u!1 &4934356891467709606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342150}
+  m_Layer: 6
+  m_Name: WERESQUID_BEAK_RIGHT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709606}
+  m_LocalRotation: {x: -0.51590395, y: 0.77333045, z: 0.20451155, w: 0.30655864}
+  m_LocalPosition: {x: -0.025334964, y: 0.16864859, z: -0.05157028}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -17.665733, y: 172.3879, z: -66.23147}
+--- !u!1 &4934356891467709608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342152}
+  m_Layer: 6
+  m_Name: WERESQUID_BEAK_TOP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342152
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709608}
+  m_LocalRotation: {x: -0.3778601, y: 0.9258627, z: 0.0000004267499, w: 0.0000003408555}
+  m_LocalPosition: {x: -0.061818838, y: 0.19038694, z: 0.00000045776366}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -0.00006207129, y: 179.99998, z: -53.462635}
+--- !u!1 &4934356891467709610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342154}
+  m_Layer: 6
+  m_Name: WERESQUID_HEAD_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342154
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709610}
+  m_LocalRotation: {x: 0.7744039, y: 0.6326915, z: 0.0000004401679, w: -0.000000513556}
+  m_LocalPosition: {x: -0.19120574, y: -0.06917483, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342156}
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -0.000077485696, y: 179.99998, z: 101.502045}
+--- !u!1 &4934356891467709612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342156}
+  m_Layer: 6
+  m_Name: WERESQUID_HEAD_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709612}
+  m_LocalRotation: {x: 0.000000027616156, y: -0.0000000046048427, z: -0.16447371, w: 0.9863815}
+  m_LocalPosition: {x: -0.14855114, y: -0.00000015258789, z: 0.00000001735304}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342158}
+  m_Father: {fileID: 4934356891467342154}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000003034701, y: -0.0000010409824, z: -18.933325}
+--- !u!1 &4934356891467709614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342158}
+  m_Layer: 6
+  m_Name: WERESQUID_HEAD_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709614}
+  m_LocalRotation: {x: 1.7354179e-16, y: -6.8387687e-15, z: -0.1442158, w: 0.9895463}
+  m_LocalPosition: {x: -0.17667334, y: 0, z: 0.000000025212083}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342000}
+  m_Father: {fileID: 4934356891467342156}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -9.33386e-14, y: -7.7834316e-13, z: -16.58374}
+--- !u!1 &4934356891467709616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342160}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709616}
+  m_LocalRotation: {x: -0.000000015174072, y: -0.0000000045183, z: -0.19921097, w: 0.9799566}
+  m_LocalPosition: {x: -0.062345352, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342190}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000022524068, y: -0.00000036262753, z: -31.845755}
+--- !u!1 &4934356891467709618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342162}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709618}
+  m_LocalRotation: {x: 0.11830941, y: -0.093659066, z: -0.049251106, w: 0.9873222}
+  m_LocalPosition: {x: -0.51905876, y: 0.0000000047683715, z: -0.000000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342170}
+  m_Father: {fileID: 4934356891467342204}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 12.660923, y: -9.729201, z: -31.158577}
+--- !u!1 &4934356891467709620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342164}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709620}
+  m_LocalRotation: {x: 0.000000005653626, y: -0.000000013786993, z: 0.3794084, w: 0.9252293}
+  m_LocalPosition: {x: -0.38034827, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342136}
+  - {fileID: 4934356891467342124}
+  - {fileID: 4934356891467342166}
+  m_Father: {fileID: 4934356891467342172}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000005344846, y: -0.0000014933232, z: 38.22997}
+--- !u!1 &4934356891467709622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342166}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709622}
+  m_LocalRotation: {x: 0.61439556, y: -0.000000011756989, z: 0.000000009155207, w: 0.7889982}
+  m_LocalPosition: {x: -0.392016, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342176}
+  - {fileID: 4934356891467342182}
+  - {fileID: 4934356891467342188}
+  m_Father: {fileID: 4934356891467342164}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 58.89529, y: -23.415817, z: 52.756527}
+--- !u!1 &4934356891467709624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342168}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709624}
+  m_LocalRotation: {x: -0.017789613, y: 0.9960358, z: 0.0071504423, w: -0.086862594}
+  m_LocalPosition: {x: -0.00000015258789, y: -0.00000010095093, z: -0.110081814}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342204}
+  m_Father: {fileID: 4934356891467342202}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 2.534104, y: -178.98787, z: -13.67441}
+--- !u!1 &4934356891467709626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342170}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709626}
+  m_LocalRotation: {x: 0.000000015454313, y: -0.000000015454313, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.119383484, y: 0.21447961, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342162}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00009462207, y: -0.000042475393, z: -90.00009}
+--- !u!1 &4934356891467709628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342172}
+  m_Layer: 6
+  m_Name: WERESQUID_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709628}
+  m_LocalRotation: {x: -0.08961601, y: 0.06826766, z: 0.016605845, w: 0.9934952}
+  m_LocalPosition: {x: -0.20473734, y: -1.364242e-14, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342164}
+  m_Father: {fileID: 4934356891467342206}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 54.186523, y: 26.91519, z: 57.22939}
+--- !u!1 &4934356891467709630
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342174}
+  m_Layer: 6
+  m_Name: WERESQUID_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709630}
+  m_LocalRotation: {x: -0.0000020804905, y: 0.000000693676, z: -0.00039815903, w: 0.99999994}
+  m_LocalPosition: {x: -0.11938369, y: -0.00019612417, z: 0.00000016583304}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342144}
+  m_Father: {fileID: 4934356891467342202}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 6.0140066, y: 0.85899675, z: -18.43622}
+--- !u!1 &4934356891467709632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342048}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709632}
+  m_LocalRotation: {x: 0.009472971, y: -0.011737168, z: -0.052770723, w: 0.9984928}
+  m_LocalPosition: {x: -0.0795767, y: 0.000000114440915, z: -0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342050}
+  m_Father: {fileID: 4934356891467342078}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.009353638, y: 3.4765573, z: 6.5104375}
+--- !u!1 &4934356891467709634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342050}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709634}
+  m_LocalRotation: {x: -0.0072829267, y: 0.01984728, z: -0.043063797, w: 0.9988486}
+  m_LocalPosition: {x: -0.08580093, y: -0.00000022888183, z: 0}
+  m_LocalScale: {x: 0.9999996, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342048}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.1416693, y: 5.874703, z: 8.483141}
+--- !u!1 &4934356891467709648
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342064}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709648}
+  m_LocalRotation: {x: 0.0030341386, y: -0.0063291593, z: 0.007778264, w: 0.99994516}
+  m_LocalPosition: {x: -0.08180425, y: -0.000000114440915, z: -0.00000015258789}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342066}
+  m_Father: {fileID: 4934356891467341966}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.0078741, y: 3.4298568, z: 6.68315}
+--- !u!1 &4934356891467709650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342066}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709650}
+  m_LocalRotation: {x: -0.008985617, y: 0.032657295, z: 0.021824123, w: 0.99918795}
+  m_LocalPosition: {x: -0.07463646, y: 0.0000003814697, z: 0.00000015258789}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342068}
+  m_Father: {fileID: 4934356891467342064}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.111208, y: 7.228771, z: 8.647289}
+--- !u!1 &4934356891467709652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342068}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709652}
+  m_LocalRotation: {x: 0.0010396133, y: -0.014880851, z: -0.071639426, w: 0.99731904}
+  m_LocalPosition: {x: -0.08616558, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342066}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.3160048, y: 0.88730216, z: -1.6157904}
+--- !u!1 &4934356891467709654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342070}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709654}
+  m_LocalRotation: {x: -0.2055771, y: -0.15066418, z: -0.77993864, w: 0.5716066}
+  m_LocalPosition: {x: -0.10058102, y: 0.1901726, z: -0.08199951}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342072}
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: -5.484358, y: 14.306771, z: -137.9972}
+--- !u!1 &4934356891467709656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342072}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709656}
+  m_LocalRotation: {x: -0.003763032, y: -0.024351954, z: -0.088261805, w: 0.9957925}
+  m_LocalPosition: {x: -0.07798607, y: -0.0000002670288, z: 0}
+  m_LocalScale: {x: 1.0000004, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342074}
+  m_Father: {fileID: 4934356891467342070}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -7.619598, y: -7.846191, z: -13.573022}
+--- !u!1 &4934356891467709658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342074}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709658}
+  m_LocalRotation: {x: 0.0074038007, y: 0.06689264, z: -0.10528292, w: 0.99216235}
+  m_LocalPosition: {x: -0.085489444, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.99999964, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342076}
+  m_Father: {fileID: 4934356891467342072}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.6541653, y: -1.72759, z: -16.071016}
+--- !u!1 &4934356891467709660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342076}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709660}
+  m_LocalRotation: {x: -0.012778446, y: 0.08378637, z: -0.04712518, w: 0.99528676}
+  m_LocalPosition: {x: -0.088796444, y: 0.0000048065185, z: 0.00000015258789}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342078}
+  m_Father: {fileID: 4934356891467342074}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.8058276, y: -0.70441383, z: -9.642123}
+--- !u!1 &4934356891467709662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342078}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_UPPER_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709662}
+  m_LocalRotation: {x: 0.019207895, y: 0.030711787, z: -0.12719494, w: 0.9912161}
+  m_LocalPosition: {x: -0.084365115, y: -0.00000022888183, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342048}
+  m_Father: {fileID: 4934356891467342076}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.9845877, y: 1.4552784, z: -13.420526}
+--- !u!1 &4934356891467709664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341952}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709664}
+  m_LocalRotation: {x: 0.012778558, y: 0.083786145, z: 0.047125176, w: 0.9952868}
+  m_LocalPosition: {x: -0.08879643, y: -0.000004578602, z: 0.0000000052030917}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341954}
+  m_Father: {fileID: 4934356891467341982}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.2162027, y: 13.507683, z: 10.594234}
+--- !u!1 &4934356891467709666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341954}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709666}
+  m_LocalRotation: {x: -0.019208124, y: 0.03071176, z: 0.12719472, w: 0.9912161}
+  m_LocalPosition: {x: -0.08436521, y: 0.000000015907016, z: -9.042419e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341956}
+  m_Father: {fileID: 4934356891467341952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.4674063, y: -0.6900486, z: 13.117983}
+--- !u!1 &4934356891467709668
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341956}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709668}
+  m_LocalRotation: {x: -0.009472967, y: -0.011737164, z: 0.052770957, w: 0.9984927}
+  m_LocalPosition: {x: -0.0795764, y: 2.3287497e-10, z: 0.000000004035012}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341958}
+  m_Father: {fileID: 4934356891467341954}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.07868099, y: -11.034512, z: -7.6465526}
+--- !u!1 &4934356891467709670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341958}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709670}
+  m_LocalRotation: {x: 0.0072831763, y: 0.019847289, z: 0.043063555, w: 0.9988486}
+  m_LocalPosition: {x: -0.085801125, y: 0.00000015423436, z: 0.0000000069347394}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467341956}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.5290022, y: -7.149812, z: -8.700561}
+--- !u!1 &4934356891467709672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341960}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709672}
+  m_LocalRotation: {x: 0.207642, y: 0.07081031, z: 0.92451715, w: -0.31167078}
+  m_LocalPosition: {x: 0.02111804, y: 0.1433812, z: -0.08699981}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341962}
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: -1.7931315, y: 12.823847, z: -157.46072}
+--- !u!1 &4934356891467709674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341962}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341962
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709674}
+  m_LocalRotation: {x: 0.0000000042683723, y: 0.00000023838038, z: -0.017902851, w: 0.9998398}
+  m_LocalPosition: {x: -0.07052944, y: 0.000000038146972, z: -0.00000030517577}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341964}
+  m_Father: {fileID: 4934356891467341960}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.407381, y: -6.8396072, z: -6.4320793}
+--- !u!1 &4934356891467709676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341964}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709676}
+  m_LocalRotation: {x: 0.0008021127, y: 0.079665326, z: -0.0100242, w: 0.996771}
+  m_LocalPosition: {x: -0.069761254, y: 0, z: 0.00000030517577}
+  m_LocalScale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341966}
+  m_Father: {fileID: 4934356891467341962}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -6.0876226, y: -6.402262, z: -13.138817}
+--- !u!1 &4934356891467709678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341966}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_RIGHT_LOWER_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709678}
+  m_LocalRotation: {x: 0.00079207413, y: 0.07171706, z: -0.011008737, w: 0.9973639}
+  m_LocalPosition: {x: -0.07593727, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999995, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342064}
+  m_Father: {fileID: 4934356891467341964}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.399609, y: 6.053067, z: -9.585354}
+--- !u!1 &4934356891467709680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341968}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709680}
+  m_LocalRotation: {x: -0.00080212107, y: 0.07966538, z: 0.010024299, w: 0.996771}
+  m_LocalPosition: {x: -0.06976145, y: -0.00000008106232, z: -0.0000000023835491}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341970}
+  m_Father: {fileID: 4934356891467341998}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -6.3703775, y: 17.813944, z: 13.661315}
+--- !u!1 &4934356891467709682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341970}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709682}
+  m_LocalRotation: {x: -0.00079210836, y: 0.07171706, z: 0.011009213, w: 0.9973639}
+  m_LocalPosition: {x: -0.07593705, y: 0.0000000029802298, z: -2.1634378e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341972}
+  m_Father: {fileID: 4934356891467341968}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.8034577, y: 10.119065, z: 9.598753}
+--- !u!1 &4934356891467709684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341972}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709684}
+  m_LocalRotation: {x: -0.0030340513, y: -0.0063290023, z: -0.0077781654, w: 0.99994516}
+  m_LocalPosition: {x: -0.08180455, y: -0.0000000025331859, z: 5.18944e-10}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341974}
+  m_Father: {fileID: 4934356891467341970}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.9497949, y: -12.15467, z: -4.7641215}
+--- !u!1 &4934356891467709686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341974}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709686}
+  m_LocalRotation: {x: 0.008985456, y: 0.03265729, z: -0.021824593, w: 0.9991879}
+  m_LocalPosition: {x: -0.074636385, y: -0.0000000030190885, z: 0.000000002031058}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341976}
+  m_Father: {fileID: 4934356891467341972}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.9951204, y: -7.965922, z: -8.4477825}
+--- !u!1 &4934356891467709688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341976}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_LOWER_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709688}
+  m_LocalRotation: {x: -0.0010393647, y: -0.014880983, z: 0.071639426, w: 0.99731904}
+  m_LocalPosition: {x: -0.086165495, y: -2.2354925e-10, z: -0.0000000016290874}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467341974}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.536494, y: -13.524674, z: 2.0659409}
+--- !u!1 &4934356891467709690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341978}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341978
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709690}
+  m_LocalRotation: {x: -0.5716058, y: 0.7799388, z: 0.15066563, w: 0.20557788}
+  m_LocalPosition: {x: -0.10058102, y: 0.19017236, z: 0.08177353}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341980}
+  m_Father: {fileID: 4934356891467342100}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: -6.2660613, y: -178.67642, z: -42.02024}
+--- !u!1 &4934356891467709692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341980}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709692}
+  m_LocalRotation: {x: 0.003763015, y: -0.024351763, z: 0.088261805, w: 0.9957925}
+  m_LocalPosition: {x: -0.07798609, y: 0.0000006114947, z: -0.00000000887574}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341982}
+  m_Father: {fileID: 4934356891467341978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.3550572, y: 2.2994502, z: 15.951636}
+--- !u!1 &4934356891467709694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467341982}
+  m_Layer: 6
+  m_Name: WERESQUID_TENTACLE_LEFT_UPPER_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467341982
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709694}
+  m_LocalRotation: {x: -0.007403573, y: 0.0668929, z: 0.10528266, w: 0.99216235}
+  m_LocalPosition: {x: -0.08548952, y: -0.00000015001744, z: -2.3057509e-10}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467341952}
+  m_Father: {fileID: 4934356891467341980}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.6866126, y: 10.283846, z: 17.61079}
+--- !u!1 &4934356891467709696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342112}
+  - component: {fileID: 4934356891456139282}
+  m_Layer: 6
+  m_Name: SK_WeresquidChestArmor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342112
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709696}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 1.6622214, z: 0.038038183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4934356891456139282
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709696}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+  m_Bones:
+  - {fileID: 4934356891467342104}
+  - {fileID: 4934356891467342198}
+  - {fileID: 4934356891467342206}
+  - {fileID: 4934356891467342172}
+  - {fileID: 4934356891467342174}
+  - {fileID: 4934356891467342144}
+  - {fileID: 4934356891467342200}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4934356891467342174}
+  m_AABB:
+    m_Center: {x: -0.40649882, y: 0.037842132, z: 0.000000044703484}
+    m_Extent: {x: 0.31402925, y: 0.19272101, z: 0.43573642}
+  m_DirtyAABB: 0
+--- !u!1 &4934356891467709698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342114}
+  - component: {fileID: 4934356891456139284}
+  m_Layer: 6
+  m_Name: SK_WeresquidSkirtArmor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709698}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.000000019073486, y: 0.75666136, z: -0.057687663}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4934356891456139284
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709698}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+  m_Bones:
+  - {fileID: 4934356891467342202}
+  - {fileID: 4934356891467342174}
+  - {fileID: 4934356891467342168}
+  - {fileID: 4934356891467342194}
+  - {fileID: 4934356891467342002}
+  - {fileID: 4934356891467342004}
+  - {fileID: 4934356891467342006}
+  - {fileID: 4934356891467342008}
+  - {fileID: 4934356891467342010}
+  - {fileID: 4934356891467342012}
+  - {fileID: 4934356891467342014}
+  - {fileID: 4934356891467341984}
+  - {fileID: 4934356891467341986}
+  - {fileID: 4934356891467341988}
+  - {fileID: 4934356891467341990}
+  - {fileID: 4934356891467341992}
+  - {fileID: 4934356891467341994}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4934356891467342202}
+  m_AABB:
+    m_Center: {x: 0.39660993, y: -0.09092924, z: 0.000012114644}
+    m_Extent: {x: 0.7126421, y: 0.30876985, z: 0.35334963}
+  m_DirtyAABB: 0
+--- !u!1 &4934356891467709700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342116}
+  - component: {fileID: 4934356891466539280}
+  - component: {fileID: 4934356891465442256}
+  m_Layer: 6
+  m_Name: SM_WeresquidBracelet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342116
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709700}
+  m_LocalRotation: {x: -0.08775467, y: 0.15753113, z: -0.024614433, w: 0.9832992}
+  m_LocalPosition: {x: -0.08266424, y: -0.0064051244, z: -0.02104416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342198}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539280
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709700}
+  m_Mesh: {fileID: 4300010, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442256
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709700}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342118}
+  - component: {fileID: 4934356891466539282}
+  - component: {fileID: 4934356891465442258}
+  m_Layer: 6
+  m_Name: SM_WeresquidCalfArmorLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342118
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709702}
+  m_LocalRotation: {x: 0.7647645, y: -0.042190272, z: 0.64150876, w: 0.04268268}
+  m_LocalPosition: {x: -0.21674171, y: 0.011127767, z: -0.0035663985}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342102}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539282
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709702}
+  m_Mesh: {fileID: 4300014, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442258
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709702}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342120}
+  - component: {fileID: 4934356891466539284}
+  - component: {fileID: 4934356891465442260}
+  m_Layer: 6
+  m_Name: SM_WeresquidCalfArmorRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709704}
+  m_LocalRotation: {x: 0.6415086, y: -0.042683847, z: 0.7647646, w: 0.042189367}
+  m_LocalPosition: {x: -0.21674174, y: 0.011127038, z: 0.0035661696}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342204}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539284
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709704}
+  m_Mesh: {fileID: 4300016, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442260
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709704}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342122}
+  - component: {fileID: 4934356891466539286}
+  - component: {fileID: 4934356891465442262}
+  m_Layer: 6
+  m_Name: SM_WeresquidForearmArmorLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709706}
+  m_LocalRotation: {x: -0.021424538, y: 0.17904727, z: -0.39584595, w: 0.90043825}
+  m_LocalPosition: {x: -0.19719703, y: 0.019321423, z: 0.04343811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342094}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539286
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709706}
+  m_Mesh: {fileID: 4300008, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442262
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709706}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342124}
+  - component: {fileID: 4934356891466539288}
+  - component: {fileID: 4934356891465442264}
+  m_Layer: 6
+  m_Name: SM_WeresquidForearmArmorRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709708}
+  m_LocalRotation: {x: 0.39584714, y: 0.9004377, z: 0.021424659, w: 0.17904723}
+  m_LocalPosition: {x: -0.19719562, y: 0.019323062, z: -0.043438416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342164}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539288
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709708}
+  m_Mesh: {fileID: 4300012, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442264
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709708}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c6bed9f81bdc6fe44a182bb672ca70db, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342126}
+  - component: {fileID: 4934356891466539290}
+  - component: {fileID: 4934356891465442266}
+  m_Layer: 6
+  m_Name: SM_WeresquidStaff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709710}
+  m_LocalRotation: {x: 0.43385112, y: 0.8955584, z: -0.08272122, w: -0.05390323}
+  m_LocalPosition: {x: -0.134495, y: 0.049071655, z: -0.021002349}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342192}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4934356891466539290
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709710}
+  m_Mesh: {fileID: 4300006, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+--- !u!23 &4934356891465442266
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709710}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 14610650b10334f4c83497aba77c4770, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4934356891467709712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342128}
+  m_Layer: 6
+  m_Name: BraceletPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709712}
+  m_LocalRotation: {x: -0.08775451, y: 0.15753114, z: -0.024613932, w: 0.9832992}
+  m_LocalPosition: {x: -0.08266426, y: -0.0064051435, z: -0.02104431}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342130}
+  m_Layer: 6
+  m_Name: CalfPadPosL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709714}
+  m_LocalRotation: {x: 0.7647645, y: -0.042190854, z: 0.6415087, w: 0.04268262}
+  m_LocalPosition: {x: -0.21674167, y: 0.011127738, z: -0.0035664367}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342102}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342132}
+  m_Layer: 6
+  m_Name: CalfPadPosR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709716}
+  m_LocalRotation: {x: 0.6415085, y: -0.042684633, z: 0.7647646, w: 0.042189404}
+  m_LocalPosition: {x: -0.21674167, y: 0.011127052, z: 0.0035660933}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342204}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342134}
+  m_Layer: 6
+  m_Name: ForearmPadPosL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709718}
+  m_LocalRotation: {x: -0.021424362, y: 0.17904718, z: -0.3958457, w: 0.9004384}
+  m_LocalPosition: {x: -0.19719711, y: 0.01932146, z: 0.04343811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342094}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342136}
+  m_Layer: 6
+  m_Name: ForearmPadPosR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342136
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709720}
+  m_LocalRotation: {x: 0.3958478, y: 0.9004375, z: 0.021424845, w: 0.17904708}
+  m_LocalPosition: {x: -0.19719566, y: 0.019322928, z: -0.04343811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342164}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342138}
+  m_Layer: 6
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342138
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709722}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342098}
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &4934356891467709724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342140}
+  - component: {fileID: 4934356891460406992}
+  - component: {fileID: 4934356891631539732}
+  - component: {fileID: 4934356891631539735}
+  - component: {fileID: 4934356891631539733}
+  m_Layer: 6
+  m_Name: KaeneBoss
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 31.42, y: 0.40412903, z: 54.87}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 4934356891467342138}
+  - {fileID: 4934356891467342142}
+  - {fileID: 4934356891467342112}
+  - {fileID: 4934356891467342114}
+  - {fileID: 8283771107097281688}
+  - {fileID: 8682449666605340936}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &4934356891460406992
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709724}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+  m_Controller: {fileID: 9100000, guid: 94c91aa8bad8f8446b75afe37c5a5921, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4934356891631539732
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709724}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.5009251, y: 2.2716818, z: 0.753458}
+  m_Center: {x: -0.040602684, y: 1.1088119, z: 0.12327099}
+--- !u!114 &4934356891631539735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 161667bf28d6aea478f4219ea381f29d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AmmoDropChance: 0
+  RPGAmmoDropChance: 0
+  ShotgunAmmoDropChance: 0
+  ExperienceAmountOnKill: 15000
+  RifleAmmoPrefab: {fileID: 3083623051864894234, guid: 9eb5bc51e401972498642f3fcad8f45f, type: 3}
+  RPGAmmoPrefab: {fileID: 3083623051864894234, guid: 5469e7879e3ddfa459cdd501585ae488, type: 3}
+  ShotgunAmmoPrefab: {fileID: 3083623051864894234, guid: 13ed7548e8b9024459cc6a280a9c6374, type: 3}
+--- !u!114 &4934356891631539733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ae1df2938a9a94c941723c1bcaccdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 4000
+  maxHP: 4000
+  mainAttackDamage: 15
+  ultimateDamage: 75
+  defense: 1.5
+  attackSpeed: 1
+  TransitionTimer: 15
+  ChannelingTimer: 8
+  ChannelingAura: {fileID: 1686359375265966, guid: c3d4d3c0bbcb107469a4ff837048f3f1, type: 3}
+  MainAttack: {fileID: 1347034509603832, guid: 6738245c58120464f953d9a9f484c0f9, type: 3}
+  Orb: {fileID: 1381080491605798, guid: a1f1a4c2a86974c4fa98b896d882d7f1, type: 3}
+  AOE: {fileID: 1029683450922114, guid: 5a6fc0c57ee89d44881f24e040eb5271, type: 3}
+  MinionPrefab: {fileID: 6745070770590705699, guid: 11e3095f18ad9df4cabb84715814c4d2, type: 3}
+  NumberOfMinions: 5
+  MinionSpawnInterval: 10
+  MinionSpawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  RightHand: {fileID: 4934356891467342166}
+  OrbPosition1: {fileID: 8283771107097281688}
+  OrbPosition2: {fileID: 8682449666605340936}
+  SnowFX: {fileID: 0}
+  SnowSquall: {fileID: 0}
+  bossIceClump: {fileID: 4560138201076707206, guid: 8664d66bbdac03043a60a14ad0e57df3, type: 3}
+  IcePositions: {fileID: 0}
+  gs: {fileID: 0}
+--- !u!1 &4934356891467709726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342142}
+  - component: {fileID: 4934356891456139280}
+  m_Layer: 6
+  m_Name: SK_WeresquidBody
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709726}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.011917004, z: 0.11709651}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4934356891456139280
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709726}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c4730524e1449f54eb7dcf5482d15dd1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 45cc851b8708bd94d8685d970b5797d9, type: 3}
+  m_Bones:
+  - {fileID: 4934356891467342100}
+  - {fileID: 4934356891467342154}
+  - {fileID: 4934356891467342156}
+  - {fileID: 4934356891467342158}
+  - {fileID: 4934356891467342200}
+  - {fileID: 4934356891467341978}
+  - {fileID: 4934356891467342070}
+  - {fileID: 4934356891467342004}
+  - {fileID: 4934356891467341980}
+  - {fileID: 4934356891467342072}
+  - {fileID: 4934356891467342006}
+  - {fileID: 4934356891467342002}
+  - {fileID: 4934356891467342008}
+  - {fileID: 4934356891467342206}
+  - {fileID: 4934356891467342104}
+  - {fileID: 4934356891467341960}
+  - {fileID: 4934356891467341996}
+  - {fileID: 4934356891467341982}
+  - {fileID: 4934356891467342074}
+  - {fileID: 4934356891467342202}
+  - {fileID: 4934356891467342198}
+  - {fileID: 4934356891467342192}
+  - {fileID: 4934356891467342196}
+  - {fileID: 4934356891467342194}
+  - {fileID: 4934356891467342094}
+  - {fileID: 4934356891467342204}
+  - {fileID: 4934356891467342090}
+  - {fileID: 4934356891467342092}
+  - {fileID: 4934356891467342084}
+  - {fileID: 4934356891467342086}
+  - {fileID: 4934356891467342082}
+  - {fileID: 4934356891467342174}
+  - {fileID: 4934356891467342110}
+  - {fileID: 4934356891467342080}
+  - {fileID: 4934356891467342172}
+  - {fileID: 4934356891467342108}
+  - {fileID: 4934356891467341998}
+  - {fileID: 4934356891467342168}
+  - {fileID: 4934356891467342010}
+  - {fileID: 4934356891467342088}
+  - {fileID: 4934356891467342152}
+  - {fileID: 4934356891467341962}
+  - {fileID: 4934356891467341952}
+  - {fileID: 4934356891467341968}
+  - {fileID: 4934356891467341954}
+  - {fileID: 4934356891467341958}
+  - {fileID: 4934356891467341970}
+  - {fileID: 4934356891467342076}
+  - {fileID: 4934356891467341956}
+  - {fileID: 4934356891467341976}
+  - {fileID: 4934356891467342148}
+  - {fileID: 4934356891467341964}
+  - {fileID: 4934356891467341972}
+  - {fileID: 4934356891467342144}
+  - {fileID: 4934356891467341986}
+  - {fileID: 4934356891467342012}
+  - {fileID: 4934356891467341984}
+  - {fileID: 4934356891467341966}
+  - {fileID: 4934356891467342068}
+  - {fileID: 4934356891467341974}
+  - {fileID: 4934356891467341990}
+  - {fileID: 4934356891467341988}
+  - {fileID: 4934356891467341992}
+  - {fileID: 4934356891467342102}
+  - {fileID: 4934356891467341994}
+  - {fileID: 4934356891467342050}
+  - {fileID: 4934356891467342150}
+  - {fileID: 4934356891467342146}
+  - {fileID: 4934356891467342106}
+  - {fileID: 4934356891467342078}
+  - {fileID: 4934356891467342064}
+  - {fileID: 4934356891467342066}
+  - {fileID: 4934356891467342048}
+  - {fileID: 4934356891467342164}
+  - {fileID: 4934356891467342166}
+  - {fileID: 4934356891467342176}
+  - {fileID: 4934356891467342180}
+  - {fileID: 4934356891467342182}
+  - {fileID: 4934356891467342178}
+  - {fileID: 4934356891467342188}
+  - {fileID: 4934356891467342186}
+  - {fileID: 4934356891467342190}
+  - {fileID: 4934356891467342160}
+  - {fileID: 4934356891467342162}
+  - {fileID: 4934356891467342170}
+  - {fileID: 4934356891467342184}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4934356891467342202}
+  m_AABB:
+    m_Center: {x: 0.051292717, y: 0.039114475, z: -0.000000834465}
+    m_Extent: {x: 1.186476, y: 0.6333589, z: 1.1381052}
+  m_DirtyAABB: 0
+--- !u!1 &4934356891467709760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342176}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709760}
+  m_LocalRotation: {x: -0.5042237, y: 0.57190067, z: 0.19215515, w: 0.617871}
+  m_LocalPosition: {x: -0.041507225, y: 0.030484008, z: 0.043139037}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342178}
+  m_Father: {fileID: 4934356891467342166}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -66.086174, y: 86.74533, z: -31.652475}
+--- !u!1 &4934356891467709762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342178}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709762}
+  m_LocalRotation: {x: -0.000000011330811, y: 0.00000003133426, z: -0.1164022, w: 0.9932022}
+  m_LocalPosition: {x: -0.05883293, y: -0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342180}
+  m_Father: {fileID: 4934356891467342176}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000029661373, y: -0.0000024043072, z: -12.462672}
+--- !u!1 &4934356891467709764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342180}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709764}
+  m_LocalRotation: {x: 0.0000000026500728, y: 0.00000001466362, z: -0.17784336, w: 0.98405886}
+  m_LocalPosition: {x: -0.047577363, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342178}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000041194403, y: 0.00000011195448, z: -15.203934}
+--- !u!1 &4934356891467709766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342182}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709766}
+  m_LocalRotation: {x: -0.013755236, y: 0.07847206, z: -0.14451033, w: 0.98629093}
+  m_LocalPosition: {x: -0.15065002, y: -0.000037994385, z: 0.04774891}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342184}
+  m_Father: {fileID: 4934356891467342166}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -3.6587281, y: -3.1450799, z: -15.230099}
+--- !u!1 &4934356891467709768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342184}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709768}
+  m_LocalRotation: {x: 0.000000034345298, y: -1.1330032e-10, z: -0.22014956, w: 0.97546613}
+  m_LocalPosition: {x: -0.07059944, y: 0.00000015258789, z: 0.000000076293944}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342186}
+  m_Father: {fileID: 4934356891467342182}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000070529427, y: -0.0000015550854, z: -24.39618}
+--- !u!1 &4934356891467709770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342186}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709770}
+  m_LocalRotation: {x: -0.000000015985306, y: -0.000000024382054, z: -0.116402216, w: 0.9932022}
+  m_LocalPosition: {x: -0.04848564, y: -0.00000015258789, z: -0.000000076293944}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342184}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000002581201, y: 0.0000025769027, z: -24.396183}
+--- !u!1 &4934356891467709772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342188}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709772}
+  m_LocalRotation: {x: 0.033071294, y: -0.098554164, z: -0.1366485, w: 0.98515004}
+  m_LocalPosition: {x: -0.1509806, y: -0.0072543332, z: -0.043384857}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342190}
+  m_Father: {fileID: 4934356891467342166}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 2.1907089, y: -11.73399, z: -27.046328}
+--- !u!1 &4934356891467709774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342190}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342190
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709774}
+  m_LocalRotation: {x: 0.000000009397484, y: -0.000000009596801, z: -0.20639454, w: 0.97846884}
+  m_LocalPosition: {x: -0.066187136, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342160}
+  m_Father: {fileID: 4934356891467342188}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000002576719, y: 0.000000912185, z: -31.845755}
+--- !u!1 &4934356891467709776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342192}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709776}
+  m_LocalRotation: {x: -0.61439556, y: -0.000000001975822, z: 0.00000002679069, w: 0.7889982}
+  m_LocalPosition: {x: -0.3920159, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342126}
+  - {fileID: 4934356891467342096}
+  - {fileID: 4934356891467342106}
+  - {fileID: 4934356891467342080}
+  - {fileID: 4934356891467342086}
+  m_Father: {fileID: 4934356891467342094}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -73.901955, y: 145.43747, z: -143.9455}
+--- !u!1 &4934356891467709778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342194}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709778}
+  m_LocalRotation: {x: -0.017789777, y: 0.99603593, z: -0.0071517737, w: 0.08686116}
+  m_LocalPosition: {x: 0.00000015258789, y: 0.00000020437206, z: 0.110081814}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342102}
+  m_Father: {fileID: 4934356891467342202}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.5447084, y: 168.76892, z: -20.893654}
+--- !u!1 &4934356891467709780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342196}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709780}
+  m_LocalRotation: {x: -0.00000001545431, y: 0.000000015454313, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.119383484, y: 0.21447961, z: -0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342092}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000010848929, y: -0.0000025612867, z: -90.00021}
+--- !u!1 &4934356891467709782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342198}
+  m_Layer: 6
+  m_Name: WERESQUID_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709782}
+  m_LocalRotation: {x: 0.08961601, y: -0.06826779, z: 0.016605843, w: 0.9934952}
+  m_LocalPosition: {x: -0.20473734, y: -4.5474732e-14, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342128}
+  - {fileID: 4934356891467342116}
+  - {fileID: 4934356891467342094}
+  m_Father: {fileID: 4934356891467342104}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -42.81213, y: -25.104307, z: -6.0147223}
+--- !u!1 &4934356891467709784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342200}
+  m_Layer: 6
+  m_Name: WERESQUID_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709784}
+  m_LocalRotation: {x: 4.6002668e-14, y: 0.00000033282421, z: -0.11999717, w: 0.99277425}
+  m_LocalPosition: {x: -0.24639267, y: -0.00007667139, z: -2.1266287e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342100}
+  m_Father: {fileID: 4934356891467342144}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.0000073193746, y: 0.000046395387, z: -16.800636}
+--- !u!1 &4934356891467709786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342202}
+  m_Layer: 6
+  m_Name: WERESQUID_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709786}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.49999934, w: 0.50000066}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342194}
+  - {fileID: 4934356891467342168}
+  - {fileID: 4934356891467342174}
+  - {fileID: 4934356891467342002}
+  - {fileID: 4934356891467341984}
+  m_Father: {fileID: 4934356891467342098}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 89.99992, z: 0}
+--- !u!1 &4934356891467709788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342204}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709788}
+  m_LocalRotation: {x: 0.0000000011631672, y: -0.000000014855691, z: 0.07805885, w: 0.9969488}
+  m_LocalPosition: {x: -0.5409376, y: 0.0000000023841857, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342132}
+  - {fileID: 4934356891467342120}
+  - {fileID: 4934356891467342162}
+  m_Father: {fileID: 4934356891467342168}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000013567715, y: -0.0000007574723, z: 45.119595}
+--- !u!1 &4934356891467709790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342206}
+  m_Layer: 6
+  m_Name: WERESQUID_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709790}
+  m_LocalRotation: {x: 0.64049923, y: 0.00025395575, z: 0.7679587, w: -0.00030665204}
+  m_LocalPosition: {x: -0.21761855, y: 0.000022997856, z: -0.036334135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342172}
+  m_Father: {fileID: 4934356891467342144}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 5.609098, y: 81.3272, z: -147.13628}
+--- !u!1 &4934356891467709792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342080}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709792}
+  m_LocalRotation: {x: 0.013755237, y: -0.07847207, z: -0.14451033, w: 0.98629093}
+  m_LocalPosition: {x: -0.15064998, y: -0.000037994385, z: -0.047748946}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342082}
+  m_Father: {fileID: 4934356891467342192}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 4.8015285, y: -1.7238345, z: -55.618347}
+--- !u!1 &4934356891467709794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342082}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709794}
+  m_LocalRotation: {x: -0.000000010724979, y: -0.000000005217486, z: -0.22014959, w: 0.97546613}
+  m_LocalPosition: {x: -0.07059936, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342084}
+  m_Father: {fileID: 4934356891467342080}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000226735, y: 0.00000083101986, z: -65.12871}
+--- !u!1 &4934356891467709796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342084}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709796}
+  m_LocalRotation: {x: 8.672641e-10, y: 0.0000000073999327, z: -0.11640222, w: 0.9932022}
+  m_LocalPosition: {x: -0.04848564, y: 0, z: -0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342082}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000023237758, y: -0.0000010772455, z: -65.128716}
+--- !u!1 &4934356891467709798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342086}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709798}
+  m_LocalRotation: {x: -0.033071302, y: 0.09855412, z: -0.13664849, w: 0.98515004}
+  m_LocalPosition: {x: -0.1509806, y: -0.0072543332, z: 0.04338478}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342088}
+  m_Father: {fileID: 4934356891467342192}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -2.1907125, y: 11.733991, z: -55.722237}
+--- !u!1 &4934356891467709800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342088}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709800}
+  m_LocalRotation: {x: -0.000000034343486, y: -3.7024456e-10, z: -0.20639454, w: 0.97846884}
+  m_LocalPosition: {x: -0.066187136, y: 0, z: -0.000000076293944}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342090}
+  m_Father: {fileID: 4934356891467342086}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000008578861, y: -0.0000014763975, z: -59.840622}
+--- !u!1 &4934356891467709802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342090}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709802}
+  m_LocalRotation: {x: 0.000000028071193, y: 0.000000039911352, z: -0.19921096, w: 0.9799566}
+  m_LocalPosition: {x: -0.062345274, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000038132612, y: 0.0000016644262, z: -77.09599}
+--- !u!1 &4934356891467709804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342092}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709804}
+  m_LocalRotation: {x: -0.11830937, y: 0.09365898, z: -0.049251072, w: 0.9873223}
+  m_LocalPosition: {x: -0.51905876, y: -0.0000000047683715, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342196}
+  m_Father: {fileID: 4934356891467342102}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 10.539843, y: 1.2952943, z: -27.756773}
+--- !u!1 &4934356891467709806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342094}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709806}
+  m_LocalRotation: {x: 0.00000001378699, y: 0.0000000056536256, z: 0.37940842, w: 0.9252293}
+  m_LocalPosition: {x: -0.38034827, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342134}
+  - {fileID: 4934356891467342122}
+  - {fileID: 4934356891467342192}
+  m_Father: {fileID: 4934356891467342198}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.000006618195, y: -0.0000038097478, z: 86.638245}
+--- !u!1 &4934356891467709808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342096}
+  m_Layer: 6
+  m_Name: WeaponPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709808}
+  m_LocalRotation: {x: 0.43385115, y: 0.8955584, z: -0.082721226, w: -0.053903148}
+  m_LocalPosition: {x: -0.13449524, y: 0.049071502, z: -0.021002578}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342192}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4934356891467709810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342098}
+  m_Layer: 6
+  m_Name: WERESQUID_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709810}
+  m_LocalRotation: {x: 0, y: 0, z: 0.70710593, w: 0.7071076}
+  m_LocalPosition: {x: -0, y: 0, z: 1.183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342202}
+  m_Father: {fileID: 4934356891467342138}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.9213144, y: -2.8606794, z: 77.28528}
+--- !u!1 &4934356891467709812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342100}
+  m_Layer: 6
+  m_Name: WERESQUID_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709812}
+  m_LocalRotation: {x: 1.4136647e-11, y: -0.00000033391868, z: 0.120393105, w: 0.9927263}
+  m_LocalPosition: {x: -0.0991333, y: -0.000000038146972, z: 7.2759575e-14}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342146}
+  - {fileID: 4934356891467342148}
+  - {fileID: 4934356891467342150}
+  - {fileID: 4934356891467342152}
+  - {fileID: 4934356891467342154}
+  - {fileID: 4934356891467341996}
+  - {fileID: 4934356891467341978}
+  - {fileID: 4934356891467341960}
+  - {fileID: 4934356891467342070}
+  m_Father: {fileID: 4934356891467342200}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -6.9788685, y: -9.922979, z: 41.156517}
+--- !u!1 &4934356891467709814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342102}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709814}
+  m_LocalRotation: {x: -0.0000000017447511, y: 0.00000002228354, z: 0.07805885, w: 0.9969488}
+  m_LocalPosition: {x: -0.54093754, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342130}
+  - {fileID: 4934356891467342118}
+  - {fileID: 4934356891467342092}
+  m_Father: {fileID: 4934356891467342194}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000024563133, y: 0.0000009224041, z: 48.523518}
+--- !u!1 &4934356891467709816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342104}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709816}
+  m_LocalRotation: {x: -0.64049923, y: -0.0002560979, z: 0.7679587, w: -0.00030489013}
+  m_LocalPosition: {x: -0.21761855, y: 0.000022796392, z: 0.036334135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342198}
+  m_Father: {fileID: 4934356891467342144}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.044906788, y: -79.65811, z: -179.99194}
+--- !u!1 &4934356891467709818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342106}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709818}
+  m_LocalRotation: {x: 0.5042238, y: -0.57190055, z: 0.19215518, w: 0.6178709}
+  m_LocalPosition: {x: -0.04150711, y: 0.030483855, z: -0.043139037}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342108}
+  m_Father: {fileID: 4934356891467342192}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 42.98772, y: -130.67189, z: -72.835}
+--- !u!1 &4934356891467709820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342108}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709820}
+  m_LocalRotation: {x: 0.000000014799867, y: -0.0000000017345281, z: -0.1164022, w: 0.9932022}
+  m_LocalPosition: {x: -0.05883293, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4934356891467342110}
+  m_Father: {fileID: 4934356891467342106}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -6.497361, y: 5.0709996, z: -38.103355}
+--- !u!1 &4934356891467709822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934356891467342110}
+  m_Layer: 6
+  m_Name: WERESQUID_ L Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934356891467342110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934356891467709822}
+  m_LocalRotation: {x: -0.000000026677169, y: 0.000000019963768, z: -0.17784336, w: 0.98405886}
+  m_LocalPosition: {x: -0.047577437, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342108}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.8971143, y: 6.629165, z: -53.701653}
+--- !u!1 &6002997418591405136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8283771107097281688}
+  m_Layer: 6
+  m_Name: OrbPosition1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8283771107097281688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6002997418591405136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.173, y: 4.022, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8840838092251176916
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8682449666605340936}
+  m_Layer: 6
+  m_Name: OrbPosition2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8682449666605340936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8840838092251176916}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.178, y: 4.022, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4934356891467342140}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

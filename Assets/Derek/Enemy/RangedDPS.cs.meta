@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e1caf5e4ee464f80bf122c4691f6381
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotPrefabFire: {fileID: 1294834399362254, guid: f2861f10cab8d498c9672c0bc2ad0058, type: 3}
+  - shotPrefabFrost: {fileID: 1300573103503756, guid: 1c48df1cb0f3d824c8041c90c684038b, type: 3}
+  - shotPrefabMage: {fileID: 1976014488594992, guid: 1301d7e969ef5404f925a74e1d1093b8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
