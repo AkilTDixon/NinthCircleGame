@@ -93,6 +93,14 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Multi-hit vulnerability** during stunned states
 - **Dynamic defense scaling** with grapple debuff system
 
+
+*** Wind Phase Transition ***
+
+https://github.com/user-attachments/assets/2ed861ec-8446-4e95-8c71-1ebf963f6eab
+
+
+
+
 #### **Boss Support Systems**
 - **Projectile Turret** (`ProjectileTurret.cs`) - Automated defense systems
 - **Afterimage Effects** (`Afterimages.cs`) - Visual trail system for boss movement
