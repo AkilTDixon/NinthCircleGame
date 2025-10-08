@@ -93,13 +93,14 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Multi-hit vulnerability** during stunned states
 - **Dynamic defense scaling** with grapple debuff system
 
+##### Endenor Dodge Mechanic #####
+
+![endenor dodge gif](https://github.com/user-attachments/assets/a6f6c23a-c7e0-4c8b-84d3-dbc4498d9a58)
+
 
 ##### Wind Phase Transition #####
 
 ![endenor wind gif](https://github.com/user-attachments/assets/fef24a23-3dc9-4490-a320-36e4fb373d83)
-
-
-https://github.com/user-attachments/assets/2ed861ec-8446-4e95-8c71-1ebf963f6eab
 
 
 
