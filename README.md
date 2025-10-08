@@ -1,11 +1,11 @@
 # Ninth Circle
 **Unity Game Development Project for COMP 376 at Concordia University**
 
-A third-person action game developed as a team project over the course of several months. Ninth Circle was created in under a month as a Final Project submission, featuring complex boss battles, weapon systems, and magical talismans.
+A first-person action game developed as a team project over the course of several months. Ninth Circle was created in under a month as a Final Project submission, featuring complex boss battles, weapon systems, and magical talismans.
 
 ## 🎮 Game Overview
 
-Ninth Circle is a challenging third-person action game where players battle through waves of enemies and face off against powerful bosses. The game features a comprehensive weapon system, magical talismans, and dynamic environmental hazards.
+Ninth Circle is a challenging first-person action game where players battle through waves of enemies and face off against powerful bosses. The game features a comprehensive weapon system, magical talismans, and dynamic environmental hazards.
 
 ### Full Playthrough Video with Commentary
 [![Ninth Circle Video](https://img.youtube.com/vi/nqd3PVFwXIo/0.jpg)](https://www.youtube.com/watch?v=nqd3PVFwXIo)
