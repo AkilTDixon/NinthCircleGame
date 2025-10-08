@@ -195,7 +195,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **UI particle systems** for talisman activations
 
 #### **Animation Integration**
-- **Weapon-specific animations** for all attack types
+- **Enemy animations** for all types
 - **Boss animation sequencing** with state management
 - **Player feedback animations** for damage and abilities
 
