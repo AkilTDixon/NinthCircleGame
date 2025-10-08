@@ -94,7 +94,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Dynamic defense scaling** with grapple debuff system
 
 
-### Wind Phase Transition ###
+##### Wind Phase Transition #####
 
 https://github.com/user-attachments/assets/2ed861ec-8446-4e95-8c71-1ebf963f6eab
 
