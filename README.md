@@ -84,6 +84,20 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Frost debuff system** affecting player movement
 - **Dynamic health scaling** based on player max HP
 
+#### Mechanics Preview ####
+##### Kaene Attack Pattern #####
+
+![kaene attack pattern](https://github.com/user-attachments/assets/92d65f1b-e936-4844-aa84-69a9e3005128)
+
+##### Kaene Channeling #####
+
+![kaene AOE channel](https://github.com/user-attachments/assets/e0a90b04-ce37-4939-907d-7e3d1a9be23b)
+
+##### Kaene Ice #####
+
+![kaene ice](https://github.com/user-attachments/assets/e1b2d86e-3860-48d0-9c4f-6e1e06b8eb89)
+
+
 #### **Endenor (Second Boss)** (`Boss/Endenor/EndenorScript.cs`)
 - **Advanced AI behavior** with dodge mechanics
 - **Teleportation system** with afterimage effects
@@ -93,6 +107,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Multi-hit vulnerability** during stunned states
 - **Dynamic defense scaling** with grapple debuff system
 
+#### Mechanics Preview ####
 ##### Endenor Dodge Mechanic #####
 
 ![endenor dodge gif](https://github.com/user-attachments/assets/a6f6c23a-c7e0-4c8b-84d3-dbc4498d9a58)
