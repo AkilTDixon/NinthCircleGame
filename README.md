@@ -89,13 +89,23 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 
 ![kaene attack pattern](https://github.com/user-attachments/assets/92d65f1b-e936-4844-aa84-69a9e3005128)
 
+- **Three-Prong Projectiles**: Dodging needs to be precise
+- **Contact Effect**: Projectiles apply a stacking slowing effect
+
 ##### Kaene Channeling #####
 
 ![kaene AOE channel](https://github.com/user-attachments/assets/e0a90b04-ce37-4939-907d-7e3d1a9be23b)
 
+- **Orb Turrets**: Two orbs shoot a series of projectiles that deal AOE
+- **Contact Effect**: Projectiles apply a stacking slowing effect
+- **Ultimate Attack**: The ending animation deals an arena-wide AOE that will instantly kill the player
+
 ##### Kaene Ice #####
 
 ![kaene ice](https://github.com/user-attachments/assets/e1b2d86e-3860-48d0-9c4f-6e1e06b8eb89)
+
+- **Random Spawn**: Randomly created in 1 of 4 locations in the arena
+- **Blocker**: Provides protection from projectiles and absorbs the damage of the ultimate AOE
 
 
 #### **Endenor (Second Boss)** (`Boss/Endenor/EndenorScript.cs`)
@@ -112,11 +122,16 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 
 ![endenor dodge gif](https://github.com/user-attachments/assets/a6f6c23a-c7e0-4c8b-84d3-dbc4498d9a58)
 
+- **Dodge**: Endenor cannot be harmed by normal means, and will avoid most weapon attacks
+- **Stun**: Can be stunned if attacked with the melee weapon, or hit with the RPG projectile
 
 ##### Wind Phase Transition #####
 
 ![endenor wind gif](https://github.com/user-attachments/assets/fef24a23-3dc9-4490-a320-36e4fb373d83)
 
+- **Phase Transition**: After Endenor is stunned, he transports to the center of the arena
+- **Vulnerability**: The boss is now vulnerable to all weapons and is stationary
+- **Wind Wall**: A wall of whirlwinds is created that rotates around the arena, and will kill the player if contact is made
 
 
 
