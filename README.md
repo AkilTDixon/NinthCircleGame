@@ -3,14 +3,14 @@
 
 A first-person action game developed as a team project over the course of several months. Ninth Circle was created in under a month as a Final Project submission, featuring complex boss battles, weapon systems, and magical talismans.
 
-## 🎮 Game Overview
+## Game Overview
 
 Ninth Circle is a challenging first-person action game where players battle through waves of enemies and face off against powerful bosses. The game features a comprehensive weapon system, magical talismans, and dynamic environmental hazards.
 
 ### Full Playthrough Video with Commentary
 [![Ninth Circle Video](https://img.youtube.com/vi/nqd3PVFwXIo/0.jpg)](https://www.youtube.com/watch?v=nqd3PVFwXIo)
 
-## 👥 Development Team
+## Development Team
 
 - [tooLateForTown](https://github.com/tooLateForTown/) - General Programmer, Player Movement
 - [mckenzietsean](https://github.com/mckenzietsean) - General Programmer, Art Design and UI
@@ -19,11 +19,11 @@ Ninth Circle is a challenging first-person action game where players battle thro
 - [aachernigel](https://github.com/aachernigel) - General Programmer, Enemy Design
 - **[AkilTDixon](https://github.com/AkilTDixon) - General Programmer, Weapon Design & Boss Systems**
 
-## 🎯 My Contributions (Assets/Akil/)
+## My Contributions (Assets/Akil/)
 
 All code and systems I developed are located in the `Assets/Akil/` folder. Here's a comprehensive breakdown of my contributions:
 
-### 🏗️ Core Systems Architecture
+### Core Systems Architecture
 
 #### **Player Management System** (`PlayerInfoScript.cs`)
 - **Singleton pattern implementation** for global player state management
@@ -39,7 +39,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Enemy spawn balancing** and wave progression
 - **Experience and progression mechanics**
 
-### ⚔️ Weapon System (`Assets/Akil/Scripts/`)
+### Weapon System (`Assets/Akil/Scripts/`)
 
 #### **Base Weapon Architecture** (`WeaponScript.cs`)
 - **Modular weapon system** with inheritance-based design
@@ -72,7 +72,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Ammo replenishment upgrade** - restores ammunition on hit
 - **Knockback enhancement** - increased force application
 
-### 🏆 Boss Battle System
+### Boss Battle System
 
 #### **Kaene (First Boss)** (`Boss/Kaene/KaeneScript.cs`)
 - **Multi-phase boss design** with distinct attack patterns
@@ -140,7 +140,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Afterimage Effects** (`Afterimages.cs`) - Visual trail system for boss movement
 - **Wind Rotation** (`RotateWind.cs`) - Environmental effect management
 
-### 🔮 Talisman System (`Assets/Akil/Scripts/Talismans/`)
+### Talisman System (`Assets/Akil/Scripts/Talismans/`)
 
 #### **Base Talisman Architecture** (`TalismanBase.cs`)
 - **Inheritance-based design** for consistent behavior
@@ -171,7 +171,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Dual interaction modes** - pull enemy or pull player
 - **Physics-based movement** with smooth transitions
 
-### 🌪️ Environmental Systems
+### Environmental Systems
 
 #### **Hazard Controller** (`HazardController.cs`)
 - **Dynamic hazard spawning** based on level progression
@@ -186,7 +186,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Boss and miniboss integration** at specific wave intervals
 - **Dynamic enemy composition** based on level and wave
 
-### 🎨 Visual Systems
+### Visual Systems
 
 #### **Particle Effects & VFX**
 - **Boss-specific particle systems** for all major attacks
@@ -199,7 +199,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Boss animation sequencing** with state management
 - **Player feedback animations** for damage and abilities
 
-### 🎮 User Interface & Experience
+### User Interface & Experience
 
 #### **Tutorial System** (`Assets/Akil/Scripts/Tutorial/`)
 - **Interactive tutorial** with step-by-step guidance
@@ -211,7 +211,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Scene loading system** (`LoadScene.cs`)
 - **Pause menu integration** across all systems
 
-### 🔧 Technical Implementation Details
+### Technical Implementation Details
 
 #### **Code Architecture**
 - **Event-driven design** using Unity Events for system communication
@@ -231,7 +231,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Weapon upgrade balancing** with meaningful choices
 - **Boss phase transitions** with appropriate difficulty curves
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Unity 2021.3 or later
@@ -248,7 +248,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - `Assets/Akil/Scenes/Tutorial.unity` - Interactive tutorial (my contribution)
 - `Assets/Play Scene/PlayTest.unity` - Main gameplay scene
 
-## 🎯 Game Features
+## Game Features
 
 - **4 Unique Weapon Types** with multiple upgrade paths
 - **3 Epic Boss Battles** with complex AI and multi-phase mechanics
@@ -258,7 +258,7 @@ All code and systems I developed are located in the `Assets/Akil/` folder. Here'
 - **Customizable Controls** with full keybind support
 - **Multiple Difficulty Modes** for different skill levels
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Assets/Akil/                    # My complete contribution
@@ -272,7 +272,7 @@ Assets/Akil/                    # My complete contribution
 └── Textures/                   # Custom textures and UI elements
 ```
 
-## 🏆 Technical Achievements
+## Technical Achievements
 
 - **42 C# Scripts** developed from scratch
 - **Complex AI Systems** with state machines and behavior trees
